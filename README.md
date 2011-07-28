@@ -1,4 +1,6 @@
-# EXPLANATION
+# sublime-text-haml-sass
+
+## What it is?
 
 These are TextMate syntax highlighting files that work with Sublime Text 2.
 
@@ -9,9 +11,9 @@ These are TextMate syntax highlighting files that work with Sublime Text 2.
 	- The build files will run 'sass --watch .:.' on the current SASS file in Sublime when running Build via Tools > Build or by pressing F7
 
 
-# INSTALLATION
+## INSTALLATION
 
-## Basic install (for downloaders)
+### Basic install (for downloaders)
 
 1. Go to menu bar: "Sublime Text 2 > Preferences > Browse Packages…"
    - Alternate method, on OS X, in Terminal:
@@ -24,7 +26,7 @@ These are TextMate syntax highlighting files that work with Sublime Text 2.
 4. Restart Sublime Text 2.
 
 
-## Advanced install (for developers)
+### Advanced install (for developers)
 
 1. Create fork of repository via GitHub
 
@@ -41,8 +43,7 @@ These are TextMate syntax highlighting files that work with Sublime Text 2.
    - $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 
 6. Link the two directories: /SASS/, and /Ruby Haml/ to that directory.
-    ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/Ruby\ Haml .
-    ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/SASS .
+   ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/Ruby\ Haml .
+   ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/SASS .
 
 7. Restart Sublime Text 2.
-
