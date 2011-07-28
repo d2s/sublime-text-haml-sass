@@ -41,7 +41,7 @@ These are TextMate syntax highlighting files that work with Sublime Text 2.
    - $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 
 6. Link the two directories: /SASS/, and /Ruby Haml/ to that directory.
-   ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/Ruby\ Haml .
-   ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/SASS .
+   - ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/Ruby\ Haml .
+   - ln -s ~/projects/software/sublime-text/sublime-text-haml-sass/SASS .
 
 7. Restart Sublime Text 2.
