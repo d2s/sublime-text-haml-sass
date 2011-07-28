@@ -2,7 +2,7 @@
 
 These are TextMate syntax highlighting files that work with Sublime Text 2.
 
-I pilfered them from other repos on GitHub, after searching for ones that were compatible.
+[Nathan Smith](https://github.com/nathansmith/sublime-text-haml-sass) originally pilfered them from other repos on GitHub, after searching for ones that were compatible.
 
 * Updated by [n00ge](https://github.com/n00ge/sublime-text-haml-sass)
 	- Added SASS (Windows).sublime-build, SASS (OSX).sublime-build, SASS (Linux).sublime-build, sasswatch.bat, and the Snippets folder
